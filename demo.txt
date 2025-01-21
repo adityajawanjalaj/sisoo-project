@@ -1,2 +1,6 @@
 This is dummy.
+<<<<<<< HEAD
 this is adi testing the code.
+=======
+ljbcldvsjnosdvpdobpazbpfbvpbPB KBC b N CVN ;:''''m'
+>>>>>>> main
